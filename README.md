@@ -2,4 +2,4 @@
 ## Installation
 `npm i random-cat-noise`
 ## License
-[MIT License](LICENSE.md)
+[MIT License](./LICENSE)
