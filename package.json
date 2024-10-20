@@ -1,6 +1,6 @@
 {
   "name": "random-cat-noise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Outpus a random cat noise.",
   "main": "index.js",
   "scripts": {

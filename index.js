@@ -19,6 +19,10 @@ const noises = [
     'Roar',
     'Scream',
     'Caterwaul',
+    'Bellow',
+    'Whine',
+    'Whimper',
+    'Yap',
 ]
 
 function getRandomCatNoise() {
