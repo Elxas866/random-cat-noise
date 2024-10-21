@@ -32,6 +32,6 @@ const noises = [
 ]
 ```
 ## Contribution
-Feel free to contribute to this project and extend the list of [supported noises](https://github.com/Elxas866/random-cat-noise/edit/main/README.md#supported-noises).
+Feel free to contribute to this project and extend the list of [supported noises](https://github.com/Elxas866/random-cat-noise?tab=readme-ov-file#supported-noises).
 ## License
 [MIT License](./LICENSE)
